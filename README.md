@@ -11,6 +11,7 @@ Each project is separated into its own folder. Some projects might have their ow
 Data was obtained from NVM (Dutch Real Estate Agent Organization). Through Hedonic Regression, it is found that some house features have a negative linear relation with predicted house price, and apartments in Amsterdam costs more than the other house types in Amsterdam. A neural network regression model was tested against the baseline linear regression model and obtained 10% more accuracy.
 
 ### Machine Learning Course UvA 2017/2018
+This is a collection of related projects done during the course of University of Amsterdam's 2017/2018 Machine Learning campus course.
 #### Project repository: https://github.com/Mahdiazhari/Machine-Learning
 #### Graded Assignments
   1. Manual Implementation of Logistic Regression. Model is trained and tested on MNIST dataset.
