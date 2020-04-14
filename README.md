@@ -24,4 +24,4 @@ This project is done as part of the final project for the UvA Machine Learning c
 
 ### Salary Prediction
 #### Project repository: https://github.com/Mahdiazhari/salary-prediction-project
-In this project, I created a prediction model for employee salaries in the USA based on job characteristics. The aim of this project was to find out how these features impact salaries of various jobs. I created and compared several regression models. My best model performed much better than the baseline linear regression model with an average MSE of 357.
+In this project, I created a prediction model for employee salaries in the USA based on job characteristics. The aim of this project was to find out how these features impact salaries of various jobs and to model employee salaries. I created and compared several regression models. My best model performed much better than the baseline linear regression model with an average MSE of 357.
